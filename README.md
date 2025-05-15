@@ -1,5 +1,12 @@
 # Official YOLOv7
-
+## Tie201 proj
+![alt text](<Screenshot 2025-05-15 152044.png>)
+results, detecting potholes, using yolov7.
+## credit
+- Abdelrahman Fatouh
+- Ibrahim AlKhalifah
+- Jose Sosa
+## original repo..
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolov7-trainable-bag-of-freebies-sets-new/real-time-object-detection-on-coco)](https://paperswithcode.com/sota/real-time-object-detection-on-coco?p=yolov7-trainable-bag-of-freebies-sets-new)
