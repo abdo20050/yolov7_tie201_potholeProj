@@ -1,6 +1,6 @@
 # Official YOLOv7
 ## Tie201 proj
-![alt text](<Screenshot 2025-05-15 152044.png>)
+![alt text](<./screenshots/Screenshot 2025-05-15 152044.png>)
 results, detecting potholes, using yolov7.
 ## credit
 - Abdelrahman Fatouh
